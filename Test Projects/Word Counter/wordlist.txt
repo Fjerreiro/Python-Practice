@@ -1,0 +1,4 @@
+Hello
+test
+this is a line with multiple words
+Can the program count everything?
